@@ -14,6 +14,7 @@
             <section class="top-bar">
                 <div class="logo">
                     <div class="searchbox"></div>
+                    search
                 </div>
             </section>
 
@@ -21,20 +22,24 @@
 
             </section>
         </header>
+        <!--  -->
         <div id="content">
             <div id="primary">
                 <main id="main">
                     <section class="hero">
+                        hero section
                         <section class="services">
-                            <section class="home-blog"></section>
+                            services section
+                            <section class="home-blog">blog section</section>
 
                         </section>
                     </section>
                 </main>
             </div>
         </div>
+        <!--  -->
         <footer class="site-footer">
-
+            footer section
         </footer>
     </div>
 </body>
