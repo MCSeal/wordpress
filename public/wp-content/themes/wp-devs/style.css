@@ -17,3 +17,14 @@ Tags: one-columnm custom-menu, custom-logo, featured-images
 
 
 */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.searchbox {
+  text-transform: uppercase;
+}
+
+.top-bar {
+  text-transform: uppercase;
+}
