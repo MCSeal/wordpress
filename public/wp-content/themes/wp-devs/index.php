@@ -7,9 +7,10 @@
                 hero section
                 <section class="services">
                     services section
-                    <section class="home-blog">blog section</section>
+
 
                 </section>
+                <section class="home-blog">blog section</section>
             </section>
         </main>
     </div>

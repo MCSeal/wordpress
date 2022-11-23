@@ -1,7 +1,17 @@
 <footer class="site-footer">
-    footer section
+    <div class="container">
+        <div class="copyright">
+            <p>Copyright X - 2022</p>
+        </div>
+        <nav class="footer">
+            <?php wp_nav_menu(array( 'theme_location' => 'wp_devs_footer_menu', 'depth' => 1 )); ?>
+        </nav>
+    </div>
 </footer>
 </div>
+<?php 
+    wp_footer();
+    ?>
 </body>
 
 </html>
