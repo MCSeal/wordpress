@@ -730,6 +730,9 @@ img {
 }
 
 /* Home Blog */
+.home-blog {
+  color: black;
+}
 .home .home-blog {
   padding: var(--wpdevs-big-padding);
 }
